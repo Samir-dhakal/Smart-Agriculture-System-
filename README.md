@@ -273,6 +273,7 @@ pip install flask scikit-learn pandas numpy matplotlib seaborn requests python-d
 |------|------|
 | Developer | [Samir Dhakal ] |
 | Developer | [Aayusha Kuikel] |
+| Developer | [Ayush Pandey] |
 | Institution | [SRM Institute Of Science And Technology] |
 | Department | [Computer Techonlogies ] |
 | Academic Year | 2025–26 |
